@@ -9,3 +9,15 @@ UserSettings/
 
 # Visual Studio
 .vs/
+*.csproj
+*.unityproj
+*.sln
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
